@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-scrennshot project_1_2
+screenshot project_1_2
